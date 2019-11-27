@@ -9,7 +9,7 @@ https://github.com/MartenPostma/OpenDutchWordnet/raw/master/resources/odwn/odwn_
 
 The conversion software used can be found at
 
-https://github.com/jrvosse/cornetto2rdf-conversion/releases/tag/odwn-0.1
+https://github.com/jrvosse/cornetto2rdf-conversion/releases/tag/odwn-0.2
 
 If you make use of this resource, we ask you to cite us using the following citation:
 
